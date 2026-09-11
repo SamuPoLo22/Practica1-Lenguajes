@@ -27,4 +27,4 @@ OnlineGDB
 
 ## Video
 
-[ENLACE DEL VIDEO]
+[ENLACE DEL VIDEO] (https://youtu.be/jRqREigkNSs)
